@@ -28,7 +28,11 @@ e-mail : rose000123@naver.com
 ##### OpenCV Project  
 * Autonomous driving(자율주행차)  
   * Hough Transform  
+  straight line  
 ![허프직선GIF](https://user-images.githubusercontent.com/77190057/104124401-07705680-5394-11eb-843e-4d50ae302d65.gif)  
+round line  
+![허프곡선GIF](https://user-images.githubusercontent.com/77190057/104125339-64224000-5399-11eb-94b5-f97e70aa8c4d.gif)  
+
 
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
