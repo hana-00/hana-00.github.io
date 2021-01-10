@@ -75,7 +75,7 @@ facebook:
   username               : 이하나
   app_id                 :
   publisher              :
-og_image                 : "img/hanagitimage.jpg" # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Hana Lee"
-  avatar           : https://user-images.githubusercontent.com/77190057/104088343-86d52b80-52a9-11eb-9f2e-54b7d7f3ea98.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "img/hanagitimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Korea"
   email            : rose000123@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "rose000123@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
