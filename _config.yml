@@ -25,8 +25,8 @@ url                      : "https://hana-00.github.io/" # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : hana-00/hana-00 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ![hanagitimage](https://user-images.githubusercontent.com/77190057/104088343-86d52b80-52a9-11eb-9f2e-54b7d7f3ea98.jpg) # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : ![hanagitimage](https://user-images.githubusercontent.com/77190057/104088343-86d52b80-52a9-11eb-9f2e-54b7d7f3ea98.jpg) # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Introduce" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : <src=hanagitimage.jpg> # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Hi" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
 comments:
