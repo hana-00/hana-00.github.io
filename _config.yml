@@ -23,12 +23,12 @@ name                     : "Hana Lee"
 description              : "Hello, here is my project. i alwayse grad to feedback"
 url                      : "https://hana-00.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : hana-00/hana-00 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : hana-00/hana-00 # GitHub user username/repo-name e.name/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "img/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Hi" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 150
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Hana Lee"
-  avatar           : "/img/hanagitimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Korea"
-  email            : rose000123@naver.com
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "tomorrow is better than todat"
+  location         : "Republic of Korea"
+  email            : "rose000123@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -170,7 +170,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
