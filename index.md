@@ -27,10 +27,10 @@ e-mail : rose000123@naver.com
 :The application made by Appinventor2.  
 ##### OpenCV Project  
 * Autonomous driving(자율주행차)  
-https://user-images.githubusercontent.com/77190057/104125424-edd20d80-5399-11eb-9943-6362dad85986.mp4
+!.[](https://user-images.githubusercontent.com/77190057/104125424-edd20d80-5399-11eb-9943-6362dad85986.mp4)
   * Hough Transform  
   result
-![허프직선GIF](https://user-images.githubusercontent.com/77190057/104124401-07705680-5394-11eb-843e-4d50ae302d65.gif){: align="right"}   
+![허프직선GIF](https://user-images.githubusercontent.com/77190057/104124401-07705680-5394-11eb-843e-4d50ae302d65.gif)  
 ![허프곡선GIF](https://user-images.githubusercontent.com/77190057/104125339-64224000-5399-11eb-94b5-f97e70aa8c4d.gif)  
 
 
