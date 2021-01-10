@@ -5,7 +5,7 @@ name        : Hana Lee
 birth       : 23,January,2000  
 Univ.       : Korea Politech Univ.  
 major       : Mechatronics engineering  
-Nationality : Korea  
+Nationality : Republic of Korea  
 
 Hi, I'm Hana. I'm glad to ask and feedback about project.  
 My major contaction is e-mail.  
@@ -27,7 +27,7 @@ e-mail : rose000123@naver.com
 :The application made by Appinventor2.  
 ##### OpenCV Project  
 * Autonomous driving(자율주행차)  
-  {% include movie.html id="https://youtu.be/Lc6EqFeyEWw" %}  
+  {% include movie.html Lc6EqFeyEWw&feature=youtu.be="https://youtu.be/Lc6EqFeyEWw" %}  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
  * Hough Transform  
   result
