@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Hana Lee"
-  avatar           : "img/hanagitimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/img/hanagitimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Korea"
   email            : rose000123@naver.com
