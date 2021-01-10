@@ -27,7 +27,7 @@ e-mail : rose000123@naver.com
 :The application made by Appinventor2.  
 ##### OpenCV Project  
 * Autonomous driving(자율주행차)  
-  {% include movie.html id="https://www.youtube.com/watch?v=Lc6EqFeyEWw&feature" %}  
+  {% include movie.html id="Lc6EqFeyEWw&feature" %}  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
  * Hough Transform  
   result
